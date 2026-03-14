@@ -61,6 +61,17 @@ The dashboard includes:
 
 # Installation
 
+## Dependencies
+
+This project requires the following R packages:
+
+- shiny
+- bslib
+- ggplot2
+- dplyr
+- readr
+- DT
+
 To run this project locally, install the required R packages.
 
 ## Using Conda
