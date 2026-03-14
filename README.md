@@ -80,7 +80,7 @@ social-media-addiction-dashboard-r
 
 To run this project locally, install the required R packages.
 
-## Option 1: Using Conda (Recommended)
+## Using Conda
 
 Create the environment:
 
@@ -105,3 +105,9 @@ Or inside R:
 ```bash
 shiny::runApp()
 ```
+
+## Author
+
+Ssemakula Peter Wasswa
+Master of Data Science
+University of British Columbia
