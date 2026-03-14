@@ -58,23 +58,6 @@ The dashboard includes:
 
 ---
 
-# Project Structure
-
-social-media-addiction-dashboard-r
-│
-├── app.R
-├── README.md
-├── environment.yml
-│
-└── data
-└── raw
-└── Students-Social-Media-Addiction.csv
-
-- **app.R** → Main Shiny application  
-- **data/raw/** → Dataset used in the dashboard  
-- **environment.yml** → Conda environment configuration
-
----
 
 # Installation
 
@@ -108,6 +91,6 @@ shiny::runApp()
 
 ## Author
 
-Ssemakula Peter Wasswa
-Master of Data Science
-University of British Columbia
+- Ssemakula Peter Wasswa
+- Master of Data Science
+- University of British Columbia
