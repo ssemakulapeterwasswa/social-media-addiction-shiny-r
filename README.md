@@ -18,7 +18,7 @@ The dashboard allows users to filter the data and interactively explore trends t
 The deployed application is available on **Posit Connect Cloud**.
 
 **App Link:**  
-*Add your deployed Posit Connect Cloud link here*
+*https://019ced1a-a693-d547-9b8d-8b5968ecda35.share.connect.posit.cloud/*
 
 ---
 
